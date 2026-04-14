@@ -1,0 +1,143 @@
+,date,title,review,rating,username,helpful_votes,review_length,platform,language,location,version,verified_purchase,cleaned_text
+5,2024-05-05,Review title 6,"Waste of time, does not meet expectations.",2,user6,156,7,App Store,en,Nepal,3.5.6,No,waste time meet expectation
+6,2024-03-09,Review title 7,"Highly satisfied, the app works exactly as expected.",4,user7,186,8,Google Play,fr,Qatar,2.1.4,No,highly satisfied app work exactly expected
+7,2024-03-08,Review title 8,"Highly satisfied, the app works exactly as expected.",4,user8,152,8,Amazon,ja,Italy,5.0.3,No,highly satisfied app work exactly expected
+14,2024-06-02,Review title 15,Works fine but there is room for improvement.,3,user15,78,8,Flipkart,hi,USA,3.5.6,Yes,work fine room improvement
+18,2024-06-05,Review title 19,"Excellent app, very easy to use and extremely helpful.",5,user19,33,9,Website,pt,USA,5.0.3,No,excellent app easy use extremely helpful
+19,2025-01-03,Review title 20,"Decent app, neither too good nor too bad.",3,user20,55,8,App Store,pt,UK,3.5.6,Yes,decent app neither good bad
+21,2024-07-01,Review title 22,Poor performance and not user-friendly.,1,user22,97,5,Amazon,ja,Germany,5.0.3,Yes,poor performance user friendly
+27,2025-04-08,Review title 28,Poor performance and not user-friendly.,2,user28,91,5,Flipkart,fr,Qatar,2.1.4,No,poor performance user friendly
+32,2024-02-09,Review title 33,"Average experience, some features could be improved.",3,user33,164,7,Amazon,hi,Germany,4.2.1,Yes,average experience feature could improved
+43,2024-08-06,Review title 44,"Highly satisfied, the app works exactly as expected.",5,user44,55,8,Flipkart,pt,USA,1.2.3,No,highly satisfied app work exactly expected
+46,2024-03-01,Review title 47,Amazing quality and user-friendly interface.,4,user47,86,5,Website,ar,Poland,5.0.3,No,amazing quality user friendly interface
+49,2024-09-02,Review title 50,Works fine but there is room for improvement.,3,user50,119,8,Amazon,de,Poland,5.0.3,Yes,work fine room improvement
+54,2024-06-01,Review title 55,"Decent app, neither too good nor too bad.",3,user55,186,8,Google Play,fr,Poland,5.0.3,No,decent app neither good bad
+55,2024-04-09,Review title 56,"Excellent app, very easy to use and extremely helpful.",4,user56,53,9,App Store,es,Qatar,2.1.4,No,excellent app easy use extremely helpful
+60,2025-03-07,Review title 61,"Average experience, some features could be improved.",3,user61,100,7,Flipkart,zh,France,2.1.4,No,average experience feature could improved
+64,2024-03-02,Review title 65,"Great experience, smooth performance and useful features.",4,user65,189,7,Google Play,hi,Germany,4.2.1,No,great experience smooth performance useful feature
+65,2024-03-07,Review title 66,Poor performance and not user-friendly.,1,user66,47,5,App Store,es,India,1.2.3,Yes,poor performance user friendly
+66,2024-03-07,Review title 67,"Very disappointing experience, the app crashes often.",1,user67,44,7,Flipkart,fr,USA,3.5.6,Yes,disappointing experience app crash often
+70,2024-06-01,Review title 71,"Excellent app, very easy to use and extremely helpful.",4,user71,161,9,App Store,pt,Germany,1.2.3,No,excellent app easy use extremely helpful
+84,2025-02-08,Review title 85,"Excellent app, very easy to use and extremely helpful.",5,user85,196,9,Website,ja,USA,5.0.3,No,excellent app easy use extremely helpful
+89,2025-05-09,Review title 90,"Highly satisfied, the app works exactly as expected.",5,user90,83,8,Amazon,es,UK,1.2.3,No,highly satisfied app work exactly expected
+91,2024-02-07,Review title 92,"Highly satisfied, the app works exactly as expected.",5,user92,160,8,Website,fr,Kenya,5.0.3,Yes,highly satisfied app work exactly expected
+95,2025-05-03,Review title 96,Very reliable and worth using regularly.,4,user96,170,6,Flipkart,pt,India,1.2.3,No,reliable worth using regularly
+99,2025-02-04,Review title 100,"Excellent app, very easy to use and extremely helpful.",5,user100,111,9,Website,en,India,4.2.1,Yes,excellent app easy use extremely helpful
+107,2025-05-02,Review title 108,"Not satisfied, many bugs and issues.",1,user108,38,6,Amazon,ja,Germany,2.1.4,Yes,satisfied many bug issue
+108,2024-04-03,Review title 109,The app is okay and does its job reasonably well.,3,user109,90,10,Google Play,zh,UK,5.0.3,No,app okay job reasonably well
+111,2025-05-04,Review title 112,Poor performance and not user-friendly.,2,user112,129,5,Amazon,fr,Nepal,1.2.3,No,poor performance user friendly
+112,2024-07-02,Review title 113,"Very disappointing experience, the app crashes often.",2,user113,136,7,Amazon,en,USA,5.0.3,No,disappointing experience app crash often
+113,2025-02-01,Review title 114,"Great experience, smooth performance and useful features.",5,user114,180,7,Website,fr,UK,2.1.4,No,great experience smooth performance useful feature
+117,2025-04-04,Review title 118,Poor performance and not user-friendly.,2,user118,176,5,Google Play,de,Italy,3.5.6,No,poor performance user friendly
+119,2024-07-03,Review title 120,Very reliable and worth using regularly.,4,user120,200,6,Flipkart,de,Poland,4.2.1,No,reliable worth using regularly
+120,2024-02-07,Review title 121,"Waste of time, does not meet expectations.",1,user121,115,7,Website,ja,Kenya,4.2.1,No,waste time meet expectation
+122,2024-02-01,Review title 123,"Decent app, neither too good nor too bad.",3,user123,120,8,Amazon,de,USA,3.5.6,Yes,decent app neither good bad
+127,2025-02-02,Review title 128,"Not bad, but updates are needed for better performance.",3,user128,185,9,Amazon,de,UK,1.2.3,No,bad update needed better performance
+129,2025-03-03,Review title 130,The app is okay and does its job reasonably well.,3,user130,193,10,Amazon,hi,Germany,3.5.6,No,app okay job reasonably well
+130,2025-01-02,Review title 131,Very reliable and worth using regularly.,5,user131,170,6,Google Play,ar,Kenya,3.5.6,No,reliable worth using regularly
+134,2025-04-09,Review title 135,"Very disappointing experience, the app crashes often.",2,user135,146,7,Website,de,Nepal,3.5.6,No,disappointing experience app crash often
+137,2024-07-08,Review title 138,"Very disappointing experience, the app crashes often.",1,user138,25,7,App Store,de,Kenya,1.2.3,No,disappointing experience app crash often
+139,2024-02-04,Review title 140,"Waste of time, does not meet expectations.",1,user140,107,7,Website,zh,USA,4.2.1,Yes,waste time meet expectation
+140,2024-01-02,Review title 141,"Not satisfied, many bugs and issues.",2,user141,136,6,Amazon,hi,Poland,4.2.1,Yes,satisfied many bug issue
+146,2024-05-08,Review title 147,"Average experience, some features could be improved.",3,user147,126,7,Flipkart,ar,Kenya,2.1.4,No,average experience feature could improved
+153,2024-06-08,Review title 154,Works fine but there is room for improvement.,3,user154,113,8,Amazon,es,Poland,2.1.4,Yes,work fine room improvement
+157,2024-01-03,Review title 158,Poor performance and not user-friendly.,1,user158,87,5,Google Play,en,Italy,1.2.3,No,poor performance user friendly
+168,2024-02-06,Review title 169,"Very disappointing experience, the app crashes often.",2,user169,16,7,Flipkart,zh,Germany,3.5.6,No,disappointing experience app crash often
+169,2025-05-08,Review title 170,Amazing quality and user-friendly interface.,4,user170,71,5,Amazon,zh,Kenya,5.0.3,No,amazing quality user friendly interface
+182,2024-02-06,Review title 183,Very reliable and worth using regularly.,5,user183,170,6,Flipkart,ja,USA,5.0.3,No,reliable worth using regularly
+184,2025-04-02,Review title 185,"Waste of time, does not meet expectations.",2,user185,36,7,Amazon,ja,India,2.1.4,No,waste time meet expectation
+185,2025-02-01,Review title 186,"Not satisfied, many bugs and issues.",1,user186,139,6,Website,hi,Kenya,2.1.4,No,satisfied many bug issue
+186,2024-09-07,Review title 187,"Very disappointing experience, the app crashes often.",2,user187,43,7,App Store,fr,USA,4.2.1,No,disappointing experience app crash often
+191,2024-07-02,Review title 192,"Average experience, some features could be improved.",3,user192,177,7,App Store,zh,France,1.2.3,Yes,average experience feature could improved
+192,2024-03-01,Review title 193,"Great experience, smooth performance and useful features.",4,user193,60,7,Flipkart,pt,Germany,2.1.4,Yes,great experience smooth performance useful feature
+193,2025-05-03,Review title 194,"Great experience, smooth performance and useful features.",4,user194,195,7,App Store,hi,UK,1.2.3,Yes,great experience smooth performance useful feature
+202,2025-02-02,Review title 203,"Not bad, but updates are needed for better performance.",3,user203,91,9,Website,pt,USA,2.1.4,No,bad update needed better performance
+204,2024-01-06,Review title 205,"Terrible experience, needs major improvements.",2,user205,140,5,App Store,es,Qatar,4.2.1,No,terrible experience need major improvement
+211,2024-02-03,Review title 212,"Average experience, some features could be improved.",3,user212,184,7,App Store,hi,India,2.1.4,No,average experience feature could improved
+213,2024-09-07,Review title 214,"Excellent app, very easy to use and extremely helpful.",4,user214,132,9,Website,es,Poland,3.5.6,Yes,excellent app easy use extremely helpful
+221,2024-01-02,Review title 222,"Excellent app, very easy to use and extremely helpful.",4,user222,191,9,Flipkart,de,France,1.2.3,Yes,excellent app easy use extremely helpful
+222,2025-03-03,Review title 223,The app is okay and does its job reasonably well.,3,user223,119,10,Website,hi,India,4.2.1,No,app okay job reasonably well
+227,2025-04-07,Review title 228,Very reliable and worth using regularly.,5,user228,113,6,Website,pt,Italy,3.5.6,No,reliable worth using regularly
+232,2025-05-05,Review title 233,Works fine but there is room for improvement.,3,user233,141,8,App Store,es,France,2.1.4,No,work fine room improvement
+240,2024-09-03,Review title 241,Poor performance and not user-friendly.,2,user241,115,5,App Store,hi,Italy,1.2.3,Yes,poor performance user friendly
+241,2024-07-03,Review title 242,Poor performance and not user-friendly.,1,user242,94,5,Amazon,fr,Germany,5.0.3,No,poor performance user friendly
+244,2024-08-08,Review title 245,Poor performance and not user-friendly.,2,user245,112,5,Google Play,ja,Germany,3.5.6,No,poor performance user friendly
+250,2024-02-04,Review title 251,Poor performance and not user-friendly.,1,user251,88,5,Amazon,pt,Qatar,3.5.6,No,poor performance user friendly
+252,2024-08-02,Review title 253,The app is okay and does its job reasonably well.,3,user253,108,10,Amazon,en,Kenya,4.2.1,No,app okay job reasonably well
+259,2024-01-06,Review title 260,Works fine but there is room for improvement.,3,user260,100,8,Amazon,ar,Germany,2.1.4,No,work fine room improvement
+264,2024-01-09,Review title 265,"Very disappointing experience, the app crashes often.",2,user265,125,7,Website,ja,France,4.2.1,Yes,disappointing experience app crash often
+267,2024-08-09,Review title 268,"Decent app, neither too good nor too bad.",3,user268,93,8,Website,zh,Italy,5.0.3,Yes,decent app neither good bad
+268,2024-01-05,Review title 269,"Waste of time, does not meet expectations.",2,user269,160,7,Amazon,es,France,2.1.4,Yes,waste time meet expectation
+269,2024-01-05,Review title 270,"Decent app, neither too good nor too bad.",3,user270,165,8,Amazon,fr,UK,4.2.1,Yes,decent app neither good bad
+270,2024-09-07,Review title 271,Amazing quality and user-friendly interface.,5,user271,195,5,Google Play,ar,Nepal,2.1.4,Yes,amazing quality user friendly interface
+274,2024-01-09,Review title 275,Poor performance and not user-friendly.,1,user275,182,5,App Store,es,Poland,4.2.1,No,poor performance user friendly
+276,2024-06-06,Review title 277,"Not bad, but updates are needed for better performance.",3,user277,27,9,Website,ja,India,5.0.3,No,bad update needed better performance
+278,2024-09-08,Review title 279,"Excellent app, very easy to use and extremely helpful.",5,user279,15,9,App Store,ja,Poland,1.2.3,No,excellent app easy use extremely helpful
+282,2025-05-09,Review title 283,"Great experience, smooth performance and useful features.",4,user283,68,7,Google Play,zh,UK,4.2.1,Yes,great experience smooth performance useful feature
+283,2024-09-09,Review title 284,"Decent app, neither too good nor too bad.",3,user284,57,8,Flipkart,zh,Italy,2.1.4,No,decent app neither good bad
+286,2024-09-08,Review title 287,"Average experience, some features could be improved.",3,user287,198,7,App Store,pt,India,4.2.1,No,average experience feature could improved
+292,2024-08-07,Review title 293,"Excellent app, very easy to use and extremely helpful.",5,user293,61,9,Website,hi,USA,5.0.3,Yes,excellent app easy use extremely helpful
+293,2024-08-09,Review title 294,"Excellent app, very easy to use and extremely helpful.",4,user294,48,9,Website,hi,Germany,4.2.1,Yes,excellent app easy use extremely helpful
+294,2024-06-05,Review title 295,"Great experience, smooth performance and useful features.",5,user295,124,7,Google Play,es,UK,2.1.4,No,great experience smooth performance useful feature
+297,2024-01-06,Review title 298,"Great experience, smooth performance and useful features.",4,user298,8,7,App Store,es,India,1.2.3,Yes,great experience smooth performance useful feature
+302,2024-09-06,Review title 303,"Great experience, smooth performance and useful features.",4,user303,90,7,Website,es,Qatar,3.5.6,Yes,great experience smooth performance useful feature
+310,2024-02-03,Review title 311,"Highly satisfied, the app works exactly as expected.",4,user311,168,8,App Store,ja,Poland,2.1.4,No,highly satisfied app work exactly expected
+312,2024-03-02,Review title 313,Very reliable and worth using regularly.,4,user313,164,6,Flipkart,en,Poland,3.5.6,No,reliable worth using regularly
+313,2024-01-06,Review title 314,Poor performance and not user-friendly.,2,user314,193,5,Flipkart,ja,Qatar,5.0.3,Yes,poor performance user friendly
+315,2024-03-02,Review title 316,Very reliable and worth using regularly.,5,user316,188,6,App Store,ja,Italy,3.5.6,No,reliable worth using regularly
+317,2025-02-04,Review title 318,"Not satisfied, many bugs and issues.",2,user318,63,6,Website,hi,Italy,5.0.3,Yes,satisfied many bug issue
+318,2025-01-08,Review title 319,"Highly satisfied, the app works exactly as expected.",5,user319,117,8,Flipkart,en,Germany,1.2.3,No,highly satisfied app work exactly expected
+323,2024-06-04,Review title 324,Very reliable and worth using regularly.,4,user324,89,6,Website,fr,India,2.1.4,Yes,reliable worth using regularly
+324,2025-02-01,Review title 325,Poor performance and not user-friendly.,1,user325,45,5,Flipkart,fr,Qatar,2.1.4,No,poor performance user friendly
+325,2024-02-02,Review title 326,"Very disappointing experience, the app crashes often.",1,user326,57,7,Flipkart,de,Poland,1.2.3,Yes,disappointing experience app crash often
+327,2025-01-02,Review title 328,Amazing quality and user-friendly interface.,4,user328,67,5,Website,es,India,4.2.1,Yes,amazing quality user friendly interface
+328,2024-03-02,Review title 329,"Great experience, smooth performance and useful features.",5,user329,128,7,Amazon,en,Italy,4.2.1,No,great experience smooth performance useful feature
+331,2024-05-06,Review title 332,"Waste of time, does not meet expectations.",2,user332,177,7,Google Play,zh,Qatar,1.2.3,Yes,waste time meet expectation
+332,2024-02-03,Review title 333,Poor performance and not user-friendly.,2,user333,118,5,Flipkart,en,Germany,3.5.6,No,poor performance user friendly
+333,2025-02-01,Review title 334,"Excellent app, very easy to use and extremely helpful.",4,user334,12,9,Google Play,ja,Italy,1.2.3,Yes,excellent app easy use extremely helpful
+334,2025-01-07,Review title 335,"Great experience, smooth performance and useful features.",4,user335,22,7,Flipkart,ar,France,5.0.3,No,great experience smooth performance useful feature
+343,2024-07-01,Review title 344,Very reliable and worth using regularly.,4,user344,54,6,Flipkart,ja,Nepal,5.0.3,Yes,reliable worth using regularly
+345,2024-09-06,Review title 346,"Very disappointing experience, the app crashes often.",2,user346,105,7,Website,pt,Qatar,3.5.6,Yes,disappointing experience app crash often
+347,2024-05-04,Review title 348,The app is okay and does its job reasonably well.,3,user348,71,10,App Store,fr,India,4.2.1,No,app okay job reasonably well
+348,2025-03-08,Review title 349,"Waste of time, does not meet expectations.",1,user349,105,7,App Store,ar,Italy,2.1.4,No,waste time meet expectation
+354,2025-01-09,Review title 355,Poor performance and not user-friendly.,1,user355,188,5,Amazon,fr,Kenya,5.0.3,Yes,poor performance user friendly
+355,2024-08-07,Review title 356,Amazing quality and user-friendly interface.,5,user356,120,5,Flipkart,ar,Nepal,2.1.4,No,amazing quality user friendly interface
+357,2025-03-03,Review title 358,"Terrible experience, needs major improvements.",2,user358,146,5,Flipkart,ar,France,5.0.3,No,terrible experience need major improvement
+366,2024-05-04,Review title 367,"Waste of time, does not meet expectations.",1,user367,50,7,Website,zh,India,3.5.6,No,waste time meet expectation
+368,2025-01-06,Review title 369,"Very disappointing experience, the app crashes often.",2,user369,88,7,Google Play,de,Qatar,5.0.3,Yes,disappointing experience app crash often
+371,2024-04-06,Review title 372,The app is okay and does its job reasonably well.,3,user372,184,10,Amazon,de,USA,2.1.4,Yes,app okay job reasonably well
+374,2024-05-08,Review title 375,Amazing quality and user-friendly interface.,5,user375,169,5,Website,hi,India,3.5.6,Yes,amazing quality user friendly interface
+393,2025-03-09,Review title 394,Poor performance and not user-friendly.,2,user394,163,5,Flipkart,ja,Italy,5.0.3,Yes,poor performance user friendly
+394,2024-02-03,Review title 395,The app is okay and does its job reasonably well.,3,user395,195,10,Amazon,hi,Germany,3.5.6,Yes,app okay job reasonably well
+395,2024-01-01,Review title 396,"Waste of time, does not meet expectations.",2,user396,93,7,Website,de,UK,3.5.6,Yes,waste time meet expectation
+396,2024-06-04,Review title 397,"Terrible experience, needs major improvements.",1,user397,83,5,Flipkart,ja,Qatar,5.0.3,Yes,terrible experience need major improvement
+401,2024-01-04,Review title 402,Very reliable and worth using regularly.,4,user402,90,6,Google Play,zh,France,2.1.4,No,reliable worth using regularly
+406,2024-05-06,Review title 407,"Terrible experience, needs major improvements.",2,user407,110,5,App Store,zh,USA,3.5.6,Yes,terrible experience need major improvement
+407,2025-02-05,Review title 408,"Excellent app, very easy to use and extremely helpful.",4,user408,56,9,App Store,ja,Italy,4.2.1,No,excellent app easy use extremely helpful
+408,2024-07-09,Review title 409,"Great experience, smooth performance and useful features.",5,user409,90,7,Amazon,fr,Nepal,1.2.3,Yes,great experience smooth performance useful feature
+412,2025-04-01,Review title 413,The app is okay and does its job reasonably well.,3,user413,80,10,Flipkart,pt,Kenya,1.2.3,Yes,app okay job reasonably well
+417,2024-06-02,Review title 418,Poor performance and not user-friendly.,2,user418,86,5,Flipkart,ar,USA,5.0.3,No,poor performance user friendly
+419,2024-03-01,Review title 420,"Very disappointing experience, the app crashes often.",1,user420,124,7,Flipkart,es,France,5.0.3,No,disappointing experience app crash often
+420,2024-03-05,Review title 421,"Great experience, smooth performance and useful features.",4,user421,29,7,Flipkart,es,Nepal,3.5.6,Yes,great experience smooth performance useful feature
+425,2024-07-06,Review title 426,"Waste of time, does not meet expectations.",2,user426,60,7,Flipkart,en,Poland,4.2.1,Yes,waste time meet expectation
+427,2024-03-07,Review title 428,"Decent app, neither too good nor too bad.",3,user428,69,8,Google Play,ja,Nepal,4.2.1,No,decent app neither good bad
+432,2025-01-05,Review title 433,"Great experience, smooth performance and useful features.",5,user433,118,7,Amazon,pt,Kenya,3.5.6,Yes,great experience smooth performance useful feature
+433,2025-02-02,Review title 434,"Very disappointing experience, the app crashes often.",1,user434,81,7,Flipkart,de,USA,4.2.1,Yes,disappointing experience app crash often
+434,2025-01-05,Review title 435,"Excellent app, very easy to use and extremely helpful.",4,user435,188,9,Website,de,Kenya,1.2.3,Yes,excellent app easy use extremely helpful
+436,2025-01-09,Review title 437,"Waste of time, does not meet expectations.",1,user437,65,7,Website,de,Qatar,1.2.3,No,waste time meet expectation
+443,2025-04-06,Review title 444,"Not bad, but updates are needed for better performance.",3,user444,65,9,Amazon,en,France,1.2.3,Yes,bad update needed better performance
+447,2024-09-04,Review title 448,Poor performance and not user-friendly.,2,user448,183,5,App Store,pt,Kenya,1.2.3,Yes,poor performance user friendly
+452,2024-09-05,Review title 453,Poor performance and not user-friendly.,1,user453,136,5,Website,zh,France,3.5.6,No,poor performance user friendly
+457,2024-03-06,Review title 458,Amazing quality and user-friendly interface.,4,user458,195,5,App Store,fr,Qatar,2.1.4,No,amazing quality user friendly interface
+459,2024-03-07,Review title 460,"Great experience, smooth performance and useful features.",5,user460,104,7,Google Play,ar,UK,4.2.1,Yes,great experience smooth performance useful feature
+465,2024-07-07,Review title 466,"Waste of time, does not meet expectations.",1,user466,88,7,Flipkart,fr,Qatar,2.1.4,No,waste time meet expectation
+468,2024-08-09,Review title 469,"Not satisfied, many bugs and issues.",1,user469,146,6,Google Play,zh,Germany,2.1.4,No,satisfied many bug issue
+469,2024-03-03,Review title 470,"Terrible experience, needs major improvements.",1,user470,106,5,Google Play,en,India,1.2.3,Yes,terrible experience need major improvement
+471,2025-02-05,Review title 472,"Terrible experience, needs major improvements.",2,user472,10,5,App Store,en,India,4.2.1,No,terrible experience need major improvement
+474,2024-07-09,Review title 475,"Excellent app, very easy to use and extremely helpful.",4,user475,76,9,Amazon,de,Germany,1.2.3,No,excellent app easy use extremely helpful
+476,2025-05-08,Review title 477,"Highly satisfied, the app works exactly as expected.",5,user477,196,8,Website,ar,Germany,1.2.3,No,highly satisfied app work exactly expected
+481,2025-03-06,Review title 482,"Waste of time, does not meet expectations.",1,user482,144,7,Flipkart,en,Germany,4.2.1,Yes,waste time meet expectation
+488,2024-01-04,Review title 489,"Highly satisfied, the app works exactly as expected.",4,user489,123,8,Website,zh,Italy,4.2.1,No,highly satisfied app work exactly expected
+490,2024-04-04,Review title 491,"Terrible experience, needs major improvements.",1,user491,12,5,Flipkart,en,Qatar,4.2.1,Yes,terrible experience need major improvement
+495,2024-07-05,Review title 496,"Waste of time, does not meet expectations.",2,user496,81,7,Flipkart,ja,Qatar,1.2.3,No,waste time meet expectation
+499,2024-09-08,Review title 500,Poor performance and not user-friendly.,1,user500,31,5,Google Play,ja,UK,3.5.6,Yes,poor performance user friendly
